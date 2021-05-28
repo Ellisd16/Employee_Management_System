@@ -19,3 +19,13 @@ Trying to figure out how to get the functions for each case to run properly was 
 
 ## Future Developments
 I want to add more options for updating employee data!
+
+## Installation
+
+Download the code for this repo through Github!
+
+cd into the file location and enter "npm start" into the terminal!
+
+## Questions
+
+If you have any questions, feel free to email me at ellisdelgado13@gmail.com
